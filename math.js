@@ -10,3 +10,18 @@ function double(n) {
 function square(n) {
   return n * n;
 }
+
+// 3. IsEven Function - Checks if a number is even
+function isEven(n) {
+  return n % 2 === 0;
+}
+
+// 4. IsOdd Function - Checks if a number is odd  
+function isOdd(n) {
+  return n % 2 !== 0;
+}
+
+// 5. Multiply Function - Multiplies two numbers
+function multiply(a, b) {
+  return a * b;
+}

@@ -5,3 +5,8 @@
 function double(n) {
   return n * 2;
 }
+
+// 2. Square Function - Returns the square of a number
+function square(n) {
+  return n * n;
+}
